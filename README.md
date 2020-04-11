@@ -1,4 +1,3 @@
 # html-calculator-source-code
 
-A Simple Calculator Developed using HTML , CSS & JavaScript 
-
+Source Code Of (http://mycalculator.ezyro.com/) , Developed using HTML , CSS & JavaScript 
